@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,8 +23,8 @@ repository               : "karrycat1/karrycat1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "han1.png"
-  name             : "Tiantian Han (韩甜甜)"
+  avatar           : "han.png"
+  name             : "Tiantian Han"
   bio              : "BSc @ Shandong University → MSc @ ICT, CAS"
   location         : "China"
   employer         : "Shandong University"

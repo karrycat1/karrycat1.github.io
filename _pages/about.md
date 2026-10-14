@@ -11,7 +11,7 @@ I am an undergraduate student at the School of Cyber Science and Technology, Sha
 Email address: tiantian.han at mail.sdu.edu.cn<br>
 Feel free to reach out for discussions or collaborations.
 
-💡 Intrests
+💡 <h2 id="interests">Interests</h2>
 ------
 - Rrecommender system
   - Generative recommendation
@@ -20,7 +20,7 @@ Feel free to reach out for discussions or collaborations.
   - To be confirmed
 
 
-📖 Educations
+📖 <h2 id="educations">Educations</h2>
 ------
 - 2023.09 - 2027.06 , Shandong University. Bachelor's Degree in Cyber Science and Technology.
 
@@ -29,7 +29,7 @@ Feel free to reach out for discussions or collaborations.
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting -->
 
-📝 Papers
+📝 <h2 id="papers">Papers</h2>
 ------
 **Residual Quantization-guided Decoding for Generative Recommendation** <br>
 Jiyuan Yang, Tiantian Han, Liangping Jiang, Mengqi Zhang, Shiguang Wu, Ziqi Zhao, Lingjie Wang, Yuanzi Li, Hongxi Cui, Pengjie Ren, Xin Xin<br>
@@ -39,7 +39,7 @@ Jiyuan Yang, Tiantian Han, Liangping Jiang, Mengqi Zhang, Shiguang Wu, Ziqi Zhao
 Lehan Wang, Siyuan Li, Chenyu Diao, Tiantian Han, Kaiyang Ma<br>
 *Under review*, ICSE, 2027.
 
-🎖 Honor and Awards
+🎖 <h2 id="honors">Honors and Awards</h2>
 ------
 <!-- - 2026: National Scholarship, Ministry of Education
 - 2025: National Scholarship, Ministry of Education
