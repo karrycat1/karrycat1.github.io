@@ -41,3 +41,8 @@
 body {
   font-family: "Georgia", "Times New Roman", serif;
 }
+
+.page {
+  max-width: 100%;
+  padding: 0 2em;   /* 左右留一点边距，避免贴边 */
+}
