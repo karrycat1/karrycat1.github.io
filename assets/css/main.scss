@@ -44,6 +44,8 @@ body {
 
 #main {
   max-width: 100% !important;
+  padding-left: 5% !important;   /* 左边距 */
+  padding-right: 5% !important;  /* 右边距 */
 }
 .page__inner-wrap {
   max-width: 100% !important;
@@ -51,5 +53,5 @@ body {
 }
 .page {
   max-width: 100% !important;
-  padding: 0 2em;
+  padding: 0 !important;
 }
