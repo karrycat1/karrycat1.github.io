@@ -11,17 +11,17 @@ I am an undergraduate student at the School of Cyber Science and Technology, Sha
 Email address: tiantian.han at mail.sdu.edu.cn<br>
 Feel free to reach out for discussions or collaborations.
 
-💡 <h2 id="interests">Interests</h2>
-------
-- Rrecommender system
+<h2 id="interests">💡 Interests</h2>
+
+- Recommender system
   - Generative recommendation
   - Reinforcement learning for recommendation
-- others
+- Others
   - To be confirmed
 
 
-📖 <h2 id="educations">Educations</h2>
-------
+<h2 id="educations">📖 Educations</h2>
+
 - 2023.09 - 2027.06 , Shandong University. Bachelor's Degree in Cyber Science and Technology.
 
 <!-- For those users that need more advanced functionality, the template also supports the following popular tools:
@@ -29,8 +29,8 @@ Feel free to reach out for discussions or collaborations.
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting -->
 
-📝 <h2 id="papers">Papers</h2>
-------
+<h2 id="papers">📝 Papers</h2>
+
 **Residual Quantization-guided Decoding for Generative Recommendation** <br>
 Jiyuan Yang, Tiantian Han, Liangping Jiang, Mengqi Zhang, Shiguang Wu, Ziqi Zhao, Lingjie Wang, Yuanzi Li, Hongxi Cui, Pengjie Ren, Xin Xin<br>
 *Under review*, WWW, 2027.
@@ -39,8 +39,8 @@ Jiyuan Yang, Tiantian Han, Liangping Jiang, Mengqi Zhang, Shiguang Wu, Ziqi Zhao
 Lehan Wang, Siyuan Li, Chenyu Diao, Tiantian Han, Kaiyang Ma<br>
 *Under review*, ICSE, 2027.
 
-🎖 <h2 id="honors">Honors and Awards</h2>
-------
+<h2 id="honors">🎖 Honors and Awards</h2>
+
 <!-- - 2026: National Scholarship, Ministry of Education
 - 2025: National Scholarship, Ministry of Education
 - 2024: National Scholarship, Ministry of Education
