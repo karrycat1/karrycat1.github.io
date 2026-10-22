@@ -29,16 +29,6 @@ Feel free to reach out for discussions or collaborations.
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting -->
 
-<h2 id="papers">📝 Papers</h2>
-
-**Residual Quantization-guided Decoding for Generative Recommendation** <br>
-Jiyuan Yang, Tiantian Han, Liangping Jiang, Mengqi Zhang, Shiguang Wu, Ziqi Zhao, Lingjie Wang, Yuanzi Li, Hongxi Cui, Pengjie Ren, Xin Xin<br>
-*Under review*, WWW, 2027.
-
-**Beyond Tool Accuracy: An Ecosystem-Centric Empirical Study of Software Composition Analysis Reliability in IoT Firmware** <br>
-Lehan Wang, Siyuan Li, Chenyu Diao, Tiantian Han, Kaiyang Ma<br>
-*Under review*, ICSE, 2027.
-
 <h2 id="honors">🎖 Honors and Awards</h2>
 
 <!-- - 2026: National Scholarship, Ministry of Education
